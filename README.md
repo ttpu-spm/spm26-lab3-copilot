@@ -1,4 +1,4 @@
-# GitHub Skills - 
+# GitHub Skills - Copilot (part-1)
 
 **SPM 2026 Assignment N3 Template**
 
